@@ -144,8 +144,8 @@ Penyebab error pada `flutter test` ini adalah pumpAndSettle() menunggu tanpa bat
 
 
 ## Bukti Tangkapan Layar (Running App)
-| Portal Pengumuman | Detail Pengumuman | Navbar |
-|---|---|---|
+| HandPhone | Tablet |
+|---|---|
 | ![Handphone](./screenshots/phone.png) | ![Tablet](./screenshots/tablet.png) |
 
 ## Error yang Tersisa
